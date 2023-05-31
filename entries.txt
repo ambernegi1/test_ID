@@ -10,3 +10,7 @@ Help ID: 800003
 Context ID: PS_module3_window
 IDE Path: path3
 
+Help ID: 800004
+Context ID: PS_module4_window
+IDE Path: path4
+
