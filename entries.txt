@@ -2,3 +2,7 @@ Help ID: 800001
 Context ID: PS_module1_dialog
 IDE Path: path1
 
+Help ID: 800002
+Context ID: PS_module2_page
+IDE Path: path2
+
