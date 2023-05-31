@@ -18,3 +18,7 @@ Help ID: 800005
 Context ID: PS_module5_page
 IDE Path: path5
 
+Help ID: 800006
+Context ID: PS_module6_page
+IDE Path: path6
+
