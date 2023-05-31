@@ -14,3 +14,7 @@ Help ID: 800004
 Context ID: PS_module4_window
 IDE Path: path4
 
+Help ID: 800005
+Context ID: PS_module5_page
+IDE Path: path5
+
