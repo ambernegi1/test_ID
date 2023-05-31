@@ -1,4 +1,2 @@
 Help ID,Context ID,IDE Path
-800001,PS_module1_window,path1
-800002,PS_module2_page,path2
-800003,PS_module3_dialog,path3
+800001,PS_module1_dialog,path1
